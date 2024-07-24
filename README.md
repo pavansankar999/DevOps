@@ -11,3 +11,8 @@
 # This is eleventh line
 # This is twelth line
 # This is thirteenth line
+<<<<<<< HEAD
+=======
+# This is forteenth line
+# This is fifteenth line
+>>>>>>> test1
